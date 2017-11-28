@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979778187340",
+    "firebase_url": "https://sophia-2339b.firebaseio.com",
+    "project_id": "sophia-2339b",
+    "storage_bucket": "sophia-2339b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979778187340:android:4c07643f8ee0bbc9",
+        "android_client_info": {
+          "package_name": "com.disney.sophia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979778187340-6j5iq5jvrnip1maoa0lbh07nictf697e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.disney.sophia",
+            "certificate_hash": "722da66eb32f53441355a3edb9b09d08c7096a04"
+          }
+        },
+        {
+          "client_id": "979778187340-7kgsp61qb2iqt82s85e3to387eiedni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8-_pta8SOTw5lRq8WcpVa1qVHYX1-pf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979778187340-7kgsp61qb2iqt82s85e3to387eiedni3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
